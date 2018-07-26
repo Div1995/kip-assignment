@@ -1,4 +1,4 @@
-name := "all-files-in-directory"
+name := "Directory"
 
 version := "0.1"
 
